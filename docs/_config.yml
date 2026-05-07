@@ -48,7 +48,6 @@ navbar-links:
 # Links for socials in the footer
 social-network-links:
   #github: ffx271
-  linkedin: shriman
 
 # Select which social network share links to show in posts
 share-links-active:
