@@ -23,10 +23,10 @@ title: "TIL: My Notes"
 description: >- # this means to ignore newlines until "baseurl:"
   I'm always learning new things in business and technology. I occasionally write about them here.
 baseurl: "/" # the subpath of your site, e.g. /blog
-domain: "sgurungp.github.io" 
-url: "https://sgurungp.github.io" 
+domain: "ffx271.github.io" 
+url: "https://ffx271.github.io" 
 ## twitter_username: jekyllrb
-github_username:  sgurungp
+github_username:  ffx271
 
 # Build settings
 # minima ('theme: minima') is the basic theme, present by default.
@@ -47,7 +47,7 @@ navbar-links:
 
 # Links for socials in the footer
 social-network-links:
-  #github: sgurungp
+  #github: ffx271
   linkedin: shriman
 
 # Select which social network share links to show in posts
