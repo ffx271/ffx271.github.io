@@ -47,14 +47,14 @@ navbar-links:
 
 # Links for socials in the footer
 social-network-links:
-  #github: ffx271
+  github: ffx271
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  linkedin: true
-  reddit: true
-  facebook: true
+  twitter: false
+  linkedin: false
+  reddit: false
+  facebook: false
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -79,8 +79,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      comments: false  # add comments to all blog posts
+      social-share: false # add social media sharing buttons to all blog posts
       readtime: true # add estimate of reading time to all blog posts
   -
     scope:
